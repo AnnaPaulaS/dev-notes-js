@@ -14,7 +14,7 @@ Projeto desenvolvido no curso “Formação Front-end - HTML, CSS, JavaScript, R
  - Pesquisar nota
  - Duplicar nota
  - Exportar dados para csv
- - 
+   
 # Autora:
 
 Ana Soares
